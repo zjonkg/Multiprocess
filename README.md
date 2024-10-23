@@ -32,4 +32,4 @@ El programa realiza los siguientes pasos:
 Para compilar el programa, ejecuta el siguiente comando en la terminal:
 
 ```bash
-g++ main.cpp -o gestion_procesos
+g++ main.cpp
